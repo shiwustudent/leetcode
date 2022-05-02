@@ -10,6 +10,7 @@ LeetCode
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                      | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                                      | 简单 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                      | 简单 |
+| 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                      | 困难 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                      | 简单 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                             | 简单 |
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                        | 简单 |
