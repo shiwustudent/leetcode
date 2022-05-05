@@ -19,3 +19,4 @@ LeetCode
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                        | 简单 |
 | 937  | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                        | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)                        | 中等 |
+| 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                        | 中等 |
