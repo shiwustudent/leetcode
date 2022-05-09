@@ -26,3 +26,9 @@ LeetCode
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)     | 中等 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)             | 中等 |
 
+
+## 剑指Offer
+
+| #   | 右对齐          |  难度 |
+|-----|--------------|----|
+| 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
