@@ -20,7 +20,7 @@ public class Offer09 {
         System.out.println(cQueue.deleteHead());
     }
 
-    static class CQueue {
+    private static class CQueue {
         Deque<Integer> inStack;
         Deque<Integer> outStack;
 

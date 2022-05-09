@@ -16,7 +16,7 @@ public class LeetCode3 {
         System.out.println(lengthOfLongestSubstring(s));
     }
 
-    public static int lengthOfLongestSubstring(String s) {
+    private static int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
         int max = 0;
         for (int i = 0; i < s.length(); i++) {
