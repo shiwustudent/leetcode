@@ -36,3 +36,4 @@ LeetCode
 | 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | 简单 |
 | 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)         | 简单 |
+| 58  | [左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)         | 简单 |
