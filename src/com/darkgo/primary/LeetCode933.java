@@ -26,7 +26,7 @@ public class LeetCode933 {
         recentCounter.ping(9000);
     }
 
-    static class RecentCounter {
+    private static class RecentCounter {
         Deque<Integer> deque;
 
         public RecentCounter() {
