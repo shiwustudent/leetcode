@@ -23,6 +23,7 @@ LeetCode
 | 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                     | 简单 |
 | 942  | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/)                                     | 简单 |
 | 937  | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                        | 简单 |
+| 944  | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                        | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)     | 中等 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)             | 中等 |
 
