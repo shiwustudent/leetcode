@@ -19,7 +19,7 @@ public class LeetCode713 {
         System.out.println(numSubarrayProductLessThanK(nums, k));
     }
 
-    public static int numSubarrayProductLessThanK(int[] nums, int k) {
+    private static int numSubarrayProductLessThanK(int[] nums, int k) {
         if (k == 0) {
             return 0;
         }
@@ -36,7 +36,6 @@ public class LeetCode713 {
             }
         }
         return ans;
-
     }
 }
 
