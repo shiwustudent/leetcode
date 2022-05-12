@@ -16,7 +16,7 @@ public class LeetCode561 {
         int[] nums = {1,2,3,4};
         arrayPairSum(nums);
     }
-    public static int arrayPairSum(int[] nums) {
+    private static int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int ans = 0;
         for (int i = 0; i < nums.length; i++) {
