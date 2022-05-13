@@ -16,7 +16,7 @@ public class LeetCode442 {
         findDuplicates(nums);
     }
 
-    public static List<Integer> findDuplicates(int[] nums) {
+    private static List<Integer> findDuplicates(int[] nums) {
         List<Integer> list = new ArrayList<>();
         Set<Integer> set = new HashSet<>();
         for (int num : nums) {

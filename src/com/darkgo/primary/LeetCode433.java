@@ -21,7 +21,7 @@ public class LeetCode433 {
         System.out.println(minMutation(start, end, bank));
     }
 
-    public static int minMutation(String start, String end, String[] bank) {
+    private static int minMutation(String start, String end, String[] bank) {
         Set<String> cnt = new HashSet<>();
         Set<String> visited = new HashSet<>();
         char[] keys = {'A', 'C', 'G', 'T'};
