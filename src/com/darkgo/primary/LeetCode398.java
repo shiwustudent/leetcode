@@ -25,7 +25,7 @@ public class LeetCode398 {
         System.out.println(solution.pick(1));
     }
 
-    static class Solution {
+    private static class Solution {
         HashMap<Integer, List<Integer>> map = new LinkedHashMap<>();
 
         public Solution(int[] nums) {
@@ -41,7 +41,7 @@ public class LeetCode398 {
         }
     }
 
-    static class Solution1 {
+    private static class Solution1 {
         int[] nums;
         Random random = new Random();
 

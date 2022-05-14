@@ -41,3 +41,9 @@ LeetCode
 | 53  | [在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)         | 简单 |
 | 53  | [0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)         | 简单 |
 | 58  | [左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)         | 简单 |
+
+
+## 面试
+| #   | 名称       |  难度 |
+|----|----------|-----|
+|0105| [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|

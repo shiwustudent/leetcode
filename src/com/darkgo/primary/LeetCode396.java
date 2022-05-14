@@ -13,22 +13,20 @@ public class LeetCode396 {
     public static void main(String[] args) {
 //        int[] nums = {4, 3, 2, 6};
         int[] nums = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        new Solution().maxRotateFunction(nums);
+        maxRotateFunction(nums);
     }
-    static class Solution {
-        public int maxRotateFunction(int[] nums) {
-            int sum = Arrays.stream(nums).sum();
-            int f = 0;
-            int n = nums.length;
-            for (int i = 0; i < n; i++) {
-                f += i * nums[i];
-            }
-            int ans = f;
-            for (int i = 0; i < n - 1; i++) {
-                f = f - sum + n * nums[i];
-                ans = Math.max(f, ans);
-            }
-            return ans;
+    private static int maxRotateFunction(int[] nums) {
+        int sum = Arrays.stream(nums).sum();
+        int f = 0;
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            f += i * nums[i];
         }
+        int ans = f;
+        for (int i = 0; i < n - 1; i++) {
+            f = f - sum + n * nums[i];
+            ans = Math.max(f, ans);
+        }
+        return ans;
     }
 }

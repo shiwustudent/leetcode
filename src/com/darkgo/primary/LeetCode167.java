@@ -18,7 +18,7 @@ public class LeetCode167 {
         int target = 6;
         System.out.println(Arrays.toString(twoSum(numbers, target)));
     }
-    public static int[] twoSum(int[] numbers, int target) {
+    private static int[] twoSum(int[] numbers, int target) {
         int left = 0, right = numbers.length - 1;
         while (true) {
             if (numbers[left] + numbers[right] == target) {
