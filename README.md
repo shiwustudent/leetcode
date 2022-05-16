@@ -31,8 +31,9 @@ LeetCode
 ## 剑指Offer
 
 | #   | 名称                                                                                 |  难度 |
-|-----|------------------------------------------------------------------------------------|----|
+|-----|------------------------------------------------------------------------------------|--|
 | 03  | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)       | 简单 |
+| 04  | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)       | 中等 |
 | 05  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)       | 简单 |
 | 06  | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)   | 简单 |
 | 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
@@ -47,3 +48,5 @@ LeetCode
 | #   | 名称       |  难度 |
 |----|----------|-----|
 |0105| [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|
+|     |          |     |
+
