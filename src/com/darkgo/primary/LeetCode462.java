@@ -12,12 +12,12 @@ import java.util.Arrays;
  */
 public class LeetCode462 {
     public static void main(String[] args) {
-        System.out.println(minMoves2(new int[]{1, 0, 0, 8, 4}));
+        System.out.println(minMoves2(new int[]{1, 0, 0, 8, 6}));
     }
     private static int minMoves2(int[] nums) {
         Arrays.sort(nums);
         long sum = Arrays.stream(nums).mapToLong(i -> i).sum();
-        long l = sum / nums.length;
+        long l = nums[nums.length/2];
         int ans = 0;
         for (int i = 0; i < nums.length; i++) {
             ans += Math.abs(nums[i] - l);
