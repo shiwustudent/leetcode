@@ -11,6 +11,7 @@ LeetCode
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                   | 中等 |
 | 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                   | 中等 |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                   | 中等 |
+| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                   | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                           | 简单 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                  | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                      | 困难 |
