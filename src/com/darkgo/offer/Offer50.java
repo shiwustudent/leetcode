@@ -16,11 +16,11 @@ public class Offer50 {
     public static void main(String[] args) {
 
     }
-    public char firstUniqChar(String s) {
+    private char firstUniqChar(String s) {
         Map<Character,Integer> map = new LinkedHashMap<>();
         char[] chars = s.toCharArray();
-        for(int i=0;i<chars.length;i++){
-            map.put(chars[i],map.getOrDefault(chars[i],0)+1);
+        for (char aChar : chars) {
+            map.put(aChar, map.getOrDefault(aChar, 0) + 1);
         }
         char ans = ' ';
         for (Map.Entry<Character, Integer> entry : map.entrySet()) {

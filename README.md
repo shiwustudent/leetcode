@@ -9,9 +9,10 @@ LeetCode
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)    | 中等 |
 | 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                      | 中等 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                   | 中等 |
-| 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                   | 中等 |
-| 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                   | 中等 |
-| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                   | 中等 |
+| 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                  | 中等 |
+| 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                   | 中等 |
+| 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                  | 中等 |
+| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                  | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                           | 简单 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                  | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                      | 困难 |
@@ -22,7 +23,7 @@ LeetCode
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                     | 简单 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                | 简单 |
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                     | 简单 |
-| 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                     | 简单 |
+| 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                    | 简单 |
 | 942  | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/)                                     | 简单 |
 | 937  | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                        | 简单 |
 | 944  | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                        | 简单 |
