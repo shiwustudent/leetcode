@@ -18,12 +18,12 @@ public class LeetCode961 {
     private  int repeatedNTimes(int[] nums) {
         int n = nums.length;
         Map<Integer,Integer> map = new HashMap<>();
-        for(int i =0;i<n;i++){
-            int count  = map.getOrDefault(nums[i],0);
-            if(count+1 == 2){
-                return nums[i];
-            }else{
-                map.put(nums[i],count+1);
+        for (int num : nums) {
+            int count = map.getOrDefault(num, 0);
+            if (count + 1 == 2) {
+                return num;
+            } else {
+                map.put(num, count + 1);
             }
         }
         return 0;
