@@ -20,7 +20,7 @@ public class LeetCode1305 {
     }
 
     // Definition for a binary tree node.
-    static public class TreeNode {
+    private static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

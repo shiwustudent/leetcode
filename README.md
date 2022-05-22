@@ -45,6 +45,8 @@ LeetCode
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | 简单 |
 | 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)         | 简单 |
 | 32  | [从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)         | 中等 |
+| 32-2  | [从上到下打印二叉树II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)         | 简单 |
+| 32-3  | [从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)         | 中等 |
 | 50  | [第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)         | 简单 |
 | 53  | [在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)         | 简单 |
 | 53  | [0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)         | 简单 |
