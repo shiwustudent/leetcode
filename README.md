@@ -43,6 +43,7 @@ LeetCode
 | 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
 | 11  | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 中等 |
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | 简单 |
+| 28  | [对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/)                     | 简单 |
 | 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)         | 简单 |
 | 32  | [从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)         | 中等 |
 | 32-2  | [从上到下打印二叉树II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)         | 简单 |
