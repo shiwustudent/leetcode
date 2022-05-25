@@ -42,6 +42,7 @@ LeetCode
 | 05  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)       | 简单 |
 | 06  | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)   | 简单 |
 | 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
+| 10  | [斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/) | 简单 |
 | 11  | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 中等 |
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | 简单 |
 | 28  | [对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/)                     | 简单 |
