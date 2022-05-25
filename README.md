@@ -13,6 +13,7 @@ LeetCode
 | 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                   | 中等 |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                  | 中等 |
 | 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                  | 中等 |
+| 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                  | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                           | 简单 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                  | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                      | 困难 |
