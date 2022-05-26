@@ -33,10 +33,12 @@ public class Offer35 {
         if(head==null){
             return null;
         }
-        Node next = new Node(head.val);
-        map.put(head,next);
-        head = copyRandomList(next);
-        head.random=map.get(head.random);
-        return head;
+        if (!map.containsKey(head)) {
+            Node node = new Node(head.val);
+            map.put(head, node);
+            node.next = copyRandomList(head.next);
+            node.random = copyRandomList(head.random);
+        }
+        return map.get(head);
     }
 }
