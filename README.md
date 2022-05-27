@@ -3,9 +3,10 @@ LeetCode
 
 | #    | 名称                                                                                             | 难度 |
 |------|------------------------------------------------------------------------------------------------|----|
-| 3    | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 |
+| 01   | [两数之和](https://leetcode.cn/problems/two-sum/)       | 简单 |
+| 03   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                        | 简单 |
-| 53    | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                        | 简单 |
+| 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                        | 简单 |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                       | 简单 |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)    | 中等 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
