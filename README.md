@@ -61,10 +61,11 @@ LeetCode
 
 
 ## 面试
-| #   | 名称       |  难度 |
-|----|----------|-----|
-|0105| [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|
-|     |          |     |
+| #    | 名称       |  难度 |
+|------|----------|-----|
+| 0105 | [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|
+| 1711 | [单词距离](https://leetcode.cn/problems/find-closest-lcci/) |中等|
+|      |          |     |
 
 ## 周赛
 | #    | 场次                                                        | 题数 | 备注 |

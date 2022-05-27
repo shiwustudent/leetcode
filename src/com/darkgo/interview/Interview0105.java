@@ -8,7 +8,7 @@ package com.darkgo.interview;
  * @author ShiWu
  * @since 2022/5/13
  */
-public class interview0105 {
+public class Interview0105 {
     public static void main(String[] args) {
         String first = "islander", second = "slander";
         System.out.println(oneEditAway(first, second));
