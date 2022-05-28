@@ -7,7 +7,7 @@ LeetCode
 | 03   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                        | 简单 |
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                        | 简单 |
-| 88    | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                        | 简单 |
+| 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                        | 简单 |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                       | 简单 |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)    | 中等 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
@@ -35,6 +35,7 @@ LeetCode
 | 944  | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                        | 简单 |
 | 961  | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)                        | 简单 |
 | 965  | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)                        | 简单 |
+| 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)     | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)     | 中等 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)             | 中等 |
 
