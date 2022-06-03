@@ -23,6 +23,7 @@ LeetCode
 | 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                  | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                           | 简单 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                  | 简单 |
+| 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                  | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                      | 困难 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                  | 中等 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                      | 简单 |
