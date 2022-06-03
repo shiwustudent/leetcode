@@ -59,6 +59,7 @@ LeetCode
 | 32-2  | [从上到下打印二叉树II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)         | 简单 |
 | 32-3  | [从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)         | 中等 |
 | 35  | [复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/)         | 中等 |
+| 42  | [连续子数组的最大和](https://leetcode.cn/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)         | 简单 |
 | 50  | [第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)         | 简单 |
 | 53  | [在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)         | 简单 |
 | 53  | [0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)         | 简单 |

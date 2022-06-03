@@ -13,7 +13,7 @@ public class LeetCode350 {
         System.out.println(Arrays.toString(intersect1(nums1, nums2)));
     }
 
-    public static int[] intersect(int[] nums1, int[] nums2) {
+    private static int[] intersect(int[] nums1, int[] nums2) {
         if (nums1.length > nums2.length) {
             return intersect(nums2, nums1);
         }
@@ -39,7 +39,7 @@ public class LeetCode350 {
         return Arrays.copyOfRange(intersection, 0, index);
     }
 
-    public static int[] intersect1(int[] nums1, int[] nums2) {
+    private static int[] intersect1(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         int index1 = 0, index2 = 0, index = 0;
