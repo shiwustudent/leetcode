@@ -6,6 +6,7 @@ LeetCode
 | 01   | [两数之和](https://leetcode.cn/problems/two-sum/)       | 简单 |
 | 03   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                        | 简单 |
+| 36   | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)                                        | 中等 |
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                        | 简单 |
 | 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                        | 简单 |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                       | 简单 |
