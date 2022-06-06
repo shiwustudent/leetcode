@@ -13,6 +13,7 @@ LeetCode
 | 121  | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                                       | 简单 |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)    | 中等 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
+| 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)    | 简单 |
 | 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)    | 简单 |
 | 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                      | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                      | 简单 |
