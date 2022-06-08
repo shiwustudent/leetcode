@@ -32,6 +32,7 @@ LeetCode
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                      | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                      | 简单 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                          | 简单 |
+| 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                          | 中等 |
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                     | 简单 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                | 简单 |
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                     | 简单 |
