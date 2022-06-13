@@ -46,6 +46,7 @@ LeetCode
 | 961  | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)                       | 简单 |
 | 965  | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)                        | 简单 |
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)     | 简单 |
+| 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)     | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)    | 中等 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)            | 中等 |
 
