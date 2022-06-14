@@ -23,6 +23,7 @@ LeetCode
 | 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                     | 中等 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                     | 简单 |
 | 383  | [赎金信](https://leetcode.cn/problems/ransom-note/)                                     | 简单 |
+| 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                                     | 简单 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                  | 中等 |
 | 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                 | 中等 |
 | 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                  | 中等 |
