@@ -14,6 +14,7 @@ LeetCode
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                      | 简单 |
 | 119  | [杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/)                                      | 简单 |
 | 121  | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                                      | 简单 |
+| 141  | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)                                      | 简单 |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)   | 中等 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)    | 简单 |
