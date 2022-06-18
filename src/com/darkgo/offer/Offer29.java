@@ -32,7 +32,7 @@ public class Offer29 {
 
     ;
 
-    public Node insert(Node head, int insertVal) {
+    private Node insert(Node head, int insertVal) {
         Node node = new Node(insertVal);
         if (head == null) {
             head = node;
