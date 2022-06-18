@@ -12,9 +12,13 @@ import java.util.*;
  */
 public class biweekly_contest_80 {
     public static void main(String[] args) {
-        int[] spells = {5, 1, 3};
-        int[] potions = {1, 2, 3, 4, 5};
-        System.out.println(Arrays.toString(successfulPairs(spells, potions, 7)));
+        // int[] spells = {5, 1, 3};
+        // int[] potions = {1, 2, 3, 4, 5};
+        // System.out.println(Arrays.toString(successfulPairs(spells, potions, 7)));
+        String s = "fool3e7bar";
+        String sub = "leet";
+        char[][] mappings = {{'e', '3'}, {'t', '7'}, {'t', '8'}};
+        System.out.println(matchReplacement(s, sub, mappings));
     }
 
     private boolean strongPasswordCheckerII(String password) {
@@ -60,7 +64,7 @@ public class biweekly_contest_80 {
         int[] ans = new int[length];
         Arrays.sort(potions);
         for (int i = 0; i < spells.length; i++) {
-            int start = 0, end = potions.length - 1;
+            int start = 0, end = potions.length;
             while (start < end) {
                 int mid = start + (end - start) / 2;
                 if ((long) potions[mid] * spells[i] >= success) {
@@ -74,19 +78,49 @@ public class biweekly_contest_80 {
         return ans;
     }
 
-    public boolean matchReplacement(String s, String sub, char[][] mappings) {
-        char[] chars = sub.toCharArray();
+    private static boolean matchReplacement(String s, String sub, char[][] mappings) {
+        HashMap<Character, Set<Character>> map = new HashMap<>();
         for (int i = 0; i < mappings.length; i++) {
-            for (int j = 0; j < chars.length; j++) {
-                if (chars[j] == mappings[i][0]) {
-                    StringBuilder builder = new StringBuilder(sub);
-                    builder.replace(j, j, String.valueOf(mappings[i][1]));
-                    if (s.contains(builder.toString())) {
-                        return true;
-                    }
+            char c = mappings[i][0];
+            Set<Character> set = map.getOrDefault(c, new HashSet<>());
+            set.add(mappings[i][1]);
+            map.put(c, set);
+        }
+        int m = sub.length();
+        for (int i = 0; i + m - 1 < s.length(); i++) {
+            boolean flag = true;
+            for (int j = 0; j < m; j++) {
+                char c = s.charAt(i + j);
+                if (c == sub.charAt(j)) {
+                    continue;
                 }
+                if (!map.containsKey(sub.charAt(j))) {
+                    flag = false;
+                    break;
+                }
+                if (!map.get(sub.charAt(j)).contains(c)) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag) {
+                return true;
             }
         }
         return false;
+    }
+
+    private long countSubarrays(int[] nums, long k) {
+        int n = nums.length;
+        long ans = 0;
+        long sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            int left = i, right = nums.length - 1;
+            while (left < right) {
+                int mid = (right - left) / 2;
+            }
+        }
+        return sum;
     }
 }
