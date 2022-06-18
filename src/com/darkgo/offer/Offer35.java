@@ -15,7 +15,7 @@ public class Offer35 {
 
     }
 
-    static class Node {
+    private static class Node {
         int val;
         Node next;
         Node random;
