@@ -12,6 +12,7 @@ LeetCode
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                       | 简单 |
 | 55   | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                        | 中等 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                        | 中等 |
+| 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                       | 简单 |
 | 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                       | 简单 |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                      | 简单 |
 | 119  | [杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/)                                      | 简单 |
