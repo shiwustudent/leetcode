@@ -23,6 +23,7 @@ LeetCode
 | 203  | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)    | 简单 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)    | 简单 |
+| 232  | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)    | 简单 |
 | 242  | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)    | 简单 |
 | 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)    | 简单 |
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)    | 简单 |
