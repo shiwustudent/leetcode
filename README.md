@@ -96,6 +96,7 @@ LeetCode
 ## 面试
 | #    | 名称       |  难度 |
 |------|----------|-----|
+| 0101 | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) |简单|
 | 0105 | [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|
 | 1711 | [单词距离](https://leetcode.cn/problems/find-closest-lcci/) |中等|
 |      |          |     |
