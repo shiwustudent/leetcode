@@ -94,6 +94,7 @@ LeetCode
 | 53  | [0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)         | 简单 |
 | 58  | [左旋转字符串](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)         | 简单 |
 | 63  | [股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/)         | 中等 |
+| 91  | [粉刷房子](https://leetcode.cn/problems/JEj789/)         | 中等 |
 
 
 ## 面试
