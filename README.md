@@ -55,6 +55,7 @@ LeetCode
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                    | 简单 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                               | 简单 |
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                    | 简单 |
+| 929  | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)                                    | 简单 |
 | 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                   | 简单 |
 | 942  | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/)                                    | 简单 |
 | 937  | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                       | 简单 |
