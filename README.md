@@ -21,6 +21,7 @@ LeetCode
 | 141  | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)                                      | 简单 |
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)   | 中等 |
 | 203  | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)    | 简单 |
+| 205  | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/)    | 简单 |
 | 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)    | 简单 |
 | 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)    | 简单 |
 | 232  | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)    | 简单 |
