@@ -46,6 +46,7 @@ LeetCode
 | 515  | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)                                 | 中等 |
 | 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                 | 中等 |
 | 532  | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)                                 | 中等 |
+| 535  | [TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)                                 | 中等 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                 | 简单 |
 | 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                 | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                     | 困难 |
