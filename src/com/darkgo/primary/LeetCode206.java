@@ -28,6 +28,7 @@ public class LeetCode206 {
             this.next = next;
         }
     }
+    //迭代法
     private ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode curr = head;
@@ -39,5 +40,15 @@ public class LeetCode206 {
         }
         return pre;
 
+    }
+    //递归法
+    private ListNode reverseList1(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode newHead = reverseList1(head.next);
+        head.next.next=head;
+        head.next = null;
+        return newHead;
     }
 }
