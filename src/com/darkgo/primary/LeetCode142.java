@@ -1,9 +1,6 @@
 package com.darkgo.primary;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * <p>
@@ -41,5 +38,29 @@ public class LeetCode142 {
             head = head.next;
         }
         return head;
+    }
+
+    private ListNode detectCycle1(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+        ListNode slow = head, fast = head;
+        while (fast != null) {
+            slow = slow.next;
+            if (fast.next != null) {
+                fast = fast.next.next;
+            } else {
+                return null;
+            }
+            if (fast == slow) {
+                ListNode pre = head;
+                while (pre != slow) {
+                    pre = pre.next;
+                    slow = slow.next;
+                }
+                return pre;
+            }
+        }
+        return null;
     }
 }
