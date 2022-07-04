@@ -73,6 +73,7 @@ LeetCode
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)     | 简单 |
 | 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)     | 简单 |
 | 1175 | [质数排列](https://leetcode.cn/problems/prime-arrangements/)     | 简单 |
+| 1200 | [最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/)     | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)    | 中等 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)            | 中等 |
