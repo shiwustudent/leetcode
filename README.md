@@ -54,6 +54,7 @@ LeetCode
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                     | 困难 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                 | 中等 |
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                 | 困难 |
+| 729  | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                 | 中等 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                     | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                     | 简单 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                         | 简单 |
