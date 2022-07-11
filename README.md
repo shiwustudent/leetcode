@@ -53,6 +53,7 @@ LeetCode
 | 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                 | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                     | 困难 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                     | 中等 |
+| 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                     | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                 | 中等 |
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                 | 困难 |
 | 729  | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                 | 中等 |
