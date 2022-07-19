@@ -56,6 +56,7 @@ LeetCode
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                     | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                 | 中等 |
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                 | 困难 |
+| 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                 | 简单 |
 | 729  | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                 | 中等 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                     | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                     | 简单 |
