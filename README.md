@@ -84,6 +84,7 @@ LeetCode
 | 1252 | [奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/)     | 简单 |
 | 1260 | [二维网格迁移](https://leetcode.cn/problems/shift-2d-grid/)     | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)    | 中等 |
+| 1331 | [数组序号转换](https://leetcode.cn/problems/rank-transform-of-an-array/)    | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)            | 中等 |
 
