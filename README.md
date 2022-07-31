@@ -78,6 +78,7 @@ LeetCode
 | 1089 | [复写零](https://leetcode.cn/problems/duplicate-zeros/)     | 简单 |
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)     | 简单 |
 | 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)     | 简单 |
+| 1161 | [最大层内元素和](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/)     | 中等 |
 | 1175 | [质数排列](https://leetcode.cn/problems/prime-arrangements/)     | 简单 |
 | 1184 | [公交站间的距离](https://leetcode.cn/problems/distance-between-bus-stops/)     | 简单 |
 | 1200 | [最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/)     | 简单 |
