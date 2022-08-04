@@ -88,6 +88,7 @@ LeetCode
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)    | 中等 |
 | 1331 | [数组序号转换](https://leetcode.cn/problems/rank-transform-of-an-array/)    | 简单 |
 | 1374 | [生成每种字符都是奇数个的字符串](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/)    | 简单 |
+| 1403 | [非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/)    | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)            | 中等 |
 
