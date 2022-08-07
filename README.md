@@ -53,6 +53,7 @@ LeetCode
 | 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                 | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                     | 困难 |
 | 593  | [有效的正方形](https://leetcode.cn/problems/valid-square/)                                     | 中等 |
+| 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                     | 中等 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                     | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                     | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                 | 中等 |
