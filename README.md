@@ -93,6 +93,7 @@ LeetCode
 | 1403 | [非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/)    | 简单 |
 | 1408 | [数组中的字符串匹配](https://leetcode.cn/problems/string-matching-in-an-array/)    | 简单 |
 | 1413 | [逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)    | 简单 |
+| 1417 | [重新格式化字符串](https://leetcode.cn/problems/reformat-the-string/)    | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)            | 中等 |
 
