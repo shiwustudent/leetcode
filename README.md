@@ -45,13 +45,14 @@ LeetCode
 | 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                 | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                          | 简单 |
 | 498  | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                          | 中等 |
+| 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                 | 中等 |
 | 513  | [找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)                                 | 中等 |
 | 515  | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)                                 | 中等 |
-| 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                 | 中等 |
 | 532  | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)                                 | 中等 |
 | 535  | [TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)                                 | 中等 |
 | 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                 | 简单 |
 | 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                 | 简单 |
+| 589  | [N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)                                 | 简单 |
 | 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                     | 困难 |
 | 593  | [有效的正方形](https://leetcode.cn/problems/valid-square/)                                     | 中等 |
 | 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                     | 中等 |
