@@ -67,6 +67,7 @@ LeetCode
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                | 困难 |
 | 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                 | 简单 |
 | 729  | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                 | 中等 |
+| 733  | [图像渲染](https://leetcode.cn/problems/flood-fill/)                 | 简单 |
 | 761  | [特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)                 | 困难 |
 | 768  | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                 | 困难 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                    | 简单 |
