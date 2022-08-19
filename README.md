@@ -107,6 +107,7 @@ LeetCode
 | 1413 | [逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)   | 简单 |
 | 1417 | [重新格式化字符串](https://leetcode.cn/problems/reformat-the-string/)    | 简单 |
 | 1422 | [分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)    | 简单 |
+| 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/)    | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)           | 中等 |
 
