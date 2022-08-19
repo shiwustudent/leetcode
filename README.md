@@ -94,6 +94,7 @@ LeetCode
 | 1184 | [公交站间的距离](https://leetcode.cn/problems/distance-between-bus-stops/)     | 简单 |
 | 1200 | [最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/)     | 简单 |
 | 1217 | [玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/)     | 简单 |
+| 1224 | [最大相等频率](https://leetcode.cn/problems/maximum-equal-frequency/)     | 困难 |
 | 1252 | [奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/)     | 简单 |
 | 1260 | [二维网格迁移](https://leetcode.cn/problems/shift-2d-grid/)     | 简单 |
 | 1282 | [用户分组](https://leetcode.cn/problems/group-the-people-given-the-group-size-they-belong-to/)    | 中等 |
