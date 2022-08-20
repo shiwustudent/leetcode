@@ -12,6 +12,7 @@ LeetCode
 | 36   | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)                                       | 中等 |
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                      | 简单 |
 | 55   | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                        | 中等 |
+| 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                       | 中等 |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | 简单 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                       | 中等 |
 | 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                      | 简单 |
