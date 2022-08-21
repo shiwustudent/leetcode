@@ -91,6 +91,7 @@ LeetCode
 | 944  | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                       | 简单 |
 | 961  | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)                      | 简单 |
 | 965  | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)                        | 简单 |
+| 1046 | [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/)     | 简单 |
 | 1089 | [复写零](https://leetcode.cn/problems/duplicate-zeros/)     | 简单 |
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)     | 简单 |
 | 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)     | 简单 |
