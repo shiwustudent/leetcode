@@ -43,6 +43,7 @@ LeetCode
 | 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                    | 中等 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                 | 中等 |
 | 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                 | 简单 |
+| 424  | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)                                 | 中等 |
 | 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                | 中等 |
 | 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                 | 中等 |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                | 中等 |
