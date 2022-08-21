@@ -15,7 +15,7 @@ LeetCode
 | 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                       | 中等 |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                       | 简单 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                       | 中等 |
-| 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                      | 简单 |
+| 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                    | 简单 |
 | 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                      | 简单 |
 | 98   | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)                                      | 中等 |
 | 102  | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)                                      | 中等 |
@@ -38,17 +38,17 @@ LeetCode
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)    | 简单 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                    | 简单 |
 | 383  | [赎金信](https://leetcode.cn/problems/ransom-note/)                                     | 简单 |
-| 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                                    | 简单 |
+| 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                                  | 简单 |
 | 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                     | 简单 |
 | 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                    | 中等 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                 | 中等 |
 | 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                 | 简单 |
-| 424  | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)                                 | 中等 |
+| 424  | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)                               | 中等 |
 | 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                | 中等 |
 | 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                 | 中等 |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                | 中等 |
-| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                | 中等 |
-| 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                | 中等 |
+| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                              | 中等 |
+| 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                              | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                         | 简单 |
 | 498  | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                          | 中等 |
 | 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                | 中等 |
@@ -78,7 +78,7 @@ LeetCode
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                    | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                     | 简单 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                        | 简单 |
-| 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                                        | 中等 |
+| 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                                      | 中等 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                        | 中等 |
 | 876  | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                                        | 简单 |
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                   | 简单 |
@@ -114,6 +114,7 @@ LeetCode
 | 1417 | [重新格式化字符串](https://leetcode.cn/problems/reformat-the-string/)    | 简单 |
 | 1422 | [分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)    | 简单 |
 | 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/)    | 简单 |
+| 1455 | [检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)    | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)           | 中等 |
 
