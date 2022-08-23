@@ -67,6 +67,7 @@ LeetCode
 | 641  | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                     | 中等 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                     | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                    | 中等 |
+| 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                    | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                | 中等 |
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                | 困难 |
 | 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                 | 简单 |
