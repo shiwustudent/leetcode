@@ -67,7 +67,7 @@ LeetCode
 | 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                           | 中等 |
 | 641  | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                                | 中等 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                                            | 中等 |
-| 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                                            | 中等 |
+| 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                          | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                           | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                  | 中等 |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                            | 简单 |
@@ -81,6 +81,7 @@ LeetCode
 | 768  | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                     | 困难 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                 | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                          | 简单 |
+| 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                            | 简单 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                          | 简单 |
 | 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                         | 中等 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                   | 中等 |
