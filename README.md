@@ -67,6 +67,7 @@ LeetCode
 | 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                           | 中等 |
 | 641  | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                                | 中等 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                                            | 中等 |
+| 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                                            | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                           | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                  | 中等 |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                            | 简单 |
