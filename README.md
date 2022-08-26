@@ -1,103 +1,104 @@
 LeetCode
 ========
 
-| #    | 名称                                                                                                             | 难度 |
-|------|----------------------------------------------------------------------------------------------------------------|----|
-| 01   | [两数之和](https://leetcode.cn/problems/two-sum/)                                                                  | 简单 |
-| 03   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)                 | 中等 |
-| 11   | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)                                             | 中等 |
-| 20   | [有效的括号](https://leetcode.cn/problems/valid-parentheses/)                                                       | 简单 |
-| 21   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                                               | 简单 |
-| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                                       | 简单 |
-| 36   | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)                                                            | 中等 |
-| 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                                       | 简单 |
-| 55   | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                                                | 中等 |
-| 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                                             | 中等 |
-| 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                                           | 简单 |
-| 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                                        | 中等 |
-| 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                               | 简单 |
-| 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                                   | 简单 |
-| 98   | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)                                           | 中等 |
-| 102  | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)                                    | 中等 |
-| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                                     | 简单 |
-| 119  | [杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/)                                                    | 简单 |
-| 121  | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                                     | 简单 |
-| 141  | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)                                                        | 简单 |
-| 142  | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)                                                  | 中等 |
-| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)                         | 中等 |
-| 200  | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)                                                        | 中等 |
-| 203  | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)                                            | 简单 |
-| 204  | [计数质数](https://leetcode.cn/problems/count-primes/)                                                             | 中等 |
-| 205  | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/)                                                      | 简单 |
-| 206  | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                                      | 简单 |
-| 217  | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)                                                       | 简单 |
-| 231  | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                                             | 简单 |
-| 232  | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)                                           | 简单 |
-| 235  | [二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)                   | 简单 |
-| 242  | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)                                                        | 简单 |
-| 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                                    | 简单 |
-| 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)                                                               | 简单 |
-| 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                      | 简单 |
-| 383  | [赎金信](https://leetcode.cn/problems/ransom-note/)                                                               | 简单 |
-| 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                               | 简单 |
-| 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                                          | 简单 |
-| 396  | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                                      | 中等 |
-| 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                                   | 中等 |
-| 409  | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                                      | 简单 |
-| 424  | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)                            | 中等 |
-| 433  | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                           | 中等 |
-| 436  | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                                     | 中等 |
-| 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                  | 中等 |
-| 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                     | 中等 |
-| 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                          | 中等 |
-| 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                                           | 简单 |
-| 498  | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                                                       | 中等 |
-| 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                        | 中等 |
-| 509  | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                                        | 简单 |
-| 513  | [找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)                                           | 中等 |
-| 515  | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)                                | 中等 |
-| 532  | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)                                       | 中等 |
-| 535  | [TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)                                      | 中等 |
-| 561  | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                                  | 简单 |
-| 566  | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                                       | 简单 |
-| 589  | [N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)                                       | 简单 |
-| 591  | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                                       | 困难 |
-| 593  | [有效的正方形](https://leetcode.cn/problems/valid-square/)                                                           | 中等 |
-| 622  | [设计循环队列](https://leetcode.cn/problems/design-circular-queue/)                                                  | 中等 |
-| 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                           | 中等 |
-| 641  | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                                | 中等 |
-| 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                                            | 中等 |
-| 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                          | 中等 |
-| 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                           | 中等 |
-| 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                  | 中等 |
-| 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                            | 简单 |
-| 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                                  | 中等 |
-| 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                                 | 困难 |
-| 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                                                    | 简单 |
-| 729  | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                                                       | 中等 |
-| 733  | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                                               | 简单 |
-| 746  | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)                                            | 简单 |
-| 761  | [特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)                                                | 困难 |
-| 768  | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                     | 困难 |
-| 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                 | 简单 |
-| 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                          | 简单 |
-| 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                            | 简单 |
-| 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                          | 简单 |
-| 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                         | 中等 |
-| 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                   | 中等 |
-| 876  | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                                             | 简单 |
-| 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                                     | 简单 |
-| 899  | [三维形体投影面积](https://leetcode.cn/problems/orderly-queue/)                                                        | 困难 |
-| 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                              | 简单 |
-| 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                                   | 简单 |
-| 926  | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)                                | 中等 |
-| 929  | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)                                              | 简单 |
-| 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                            | 简单 |
-| 942  | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/)                                                       | 简单 |
-| 937  | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                                        | 简单 |
-| 944  | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                                            | 简单 |
-| 961  | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)                    | 简单 |
-| 965  | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)                                                   | 简单 |
+| #   | 名称                                                                                                             | 难度 |
+|-----|----------------------------------------------------------------------------------------------------------------|----|
+| 01  | [两数之和](https://leetcode.cn/problems/two-sum/)                                                                  | 简单 |
+| 03  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)                 | 中等 |
+| 11  | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)                                             | 中等 |
+| 20  | [有效的括号](https://leetcode.cn/problems/valid-parentheses/)                                                       | 简单 |
+| 21  | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                                               | 简单 |
+| 27  | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                                       | 简单 |
+| 36  | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)                                                            | 中等 |
+| 53  | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                                       | 简单 |
+| 55  | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                                                | 中等 |
+| 62  | [不同路径](https://leetcode.cn/problems/unique-paths/)                                                             | 中等 |
+| 70  | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                                           | 简单 |
+| 73  | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                                        | 中等 |
+| 83  | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                               | 简单 |
+| 88  | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                                   | 简单 |
+| 98  | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)                                           | 中等 |
+| 102 | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)                                    | 中等 |
+| 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)                                                     | 简单 |
+| 119 | [杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/)                                                    | 简单 |
+| 121 | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)                                     | 简单 |
+| 141 | [环形链表](https://leetcode.cn/problems/linked-list-cycle/)                                                        | 简单 |
+| 142 | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)                                                  | 中等 |
+| 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)                         | 中等 |
+| 200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/)                                                        | 中等 |
+| 203 | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)                                            | 简单 |
+| 204 | [计数质数](https://leetcode.cn/problems/count-primes/)                                                             | 中等 |
+| 205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/)                                                      | 简单 |
+| 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/)                                                      | 简单 |
+| 217 | [存在重复元素](https://leetcode.cn/problems/maximum-subarray/)                                                       | 简单 |
+| 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/)                                                             | 简单 |
+| 232 | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)                                           | 简单 |
+| 235 | [二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)                   | 简单 |
+| 242 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)                                                        | 简单 |
+| 278 | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                                    | 简单 |
+| 283 | [移动零](https://leetcode.cn/problems/move-zeroes/)                                                               | 简单 |
+| 350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                      | 简单 |
+| 374 | [猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)                                      | 简单 |
+| 383 | [赎金信](https://leetcode.cn/problems/ransom-note/)                                                               | 简单 |
+| 387 | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                               | 简单 |
+| 392 | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                                          | 简单 |
+| 396 | [旋转数组](https://leetcode-cn.com/problems/rotate-function/)                                                      | 中等 |
+| 398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)                                                   | 中等 |
+| 409 | [最长回文串](https://leetcode.cn/problems/longest-palindrome/)                                                      | 简单 |
+| 424 | [替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)                            | 中等 |
+| 433 | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)                                           | 中等 |
+| 436 | [寻找右区间](https://leetcode.cn/problems/find-right-interval/)                                                     | 中等 |
+| 442 | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                  | 中等 |
+| 462 | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                     | 中等 |
+| 467 | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                          | 中等 |
+| 485 | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                                           | 简单 |
+| 498 | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                                                       | 中等 |
+| 508 | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                        | 中等 |
+| 509 | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                                        | 简单 |
+| 513 | [找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)                                           | 中等 |
+| 515 | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)                                | 中等 |
+| 532 | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)                                       | 中等 |
+| 535 | [TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)                                      | 中等 |
+| 561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)                                                  | 简单 |
+| 566 | [重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)                                                       | 简单 |
+| 589 | [N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)                                       | 简单 |
+| 591 | [标签验证器](https://leetcode-cn.com/problems/tag-validator/)                                                       | 困难 |
+| 593 | [有效的正方形](https://leetcode.cn/problems/valid-square/)                                                           | 中等 |
+| 622 | [设计循环队列](https://leetcode.cn/problems/design-circular-queue/)                                                  | 中等 |
+| 636 | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                           | 中等 |
+| 641 | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                                | 中等 |
+| 648 | [单词替换](https://leetcode.cn/problems/replace-words/)                                                            | 中等 |
+| 658 | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                          | 中等 |
+| 676 | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                           | 中等 |
+| 692 | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                  | 中等 |
+| 704 | [二分查找](https://leetcode.cn/problems/binary-search/)                                                            | 简单 |
+| 713 | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                                  | 中等 |
+| 719 | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                                 | 困难 |
+| 724 | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                                                    | 简单 |
+| 729 | [我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/)                                                       | 中等 |
+| 733 | [图像渲染](https://leetcode.cn/problems/flood-fill/)                                                               | 简单 |
+| 746 | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)                                            | 简单 |
+| 761 | [特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)                                                | 困难 |
+| 768 | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                     | 困难 |
+| 812 | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                 | 简单 |
+| 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                          | 简单 |
+| 844 | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                            | 简单 |
+| 868 | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                          | 简单 |
+| 873 | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                         | 中等 |
+| 875 | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                   | 中等 |
+| 876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                                             | 简单 |
+| 883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                                     | 简单 |
+| 899 | [三维形体投影面积](https://leetcode.cn/problems/orderly-queue/)                                                        | 困难 |
+| 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                              | 简单 |
+| 908 | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                                   | 简单 |
+| 926 | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)                                | 中等 |
+| 929 | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)                                              | 简单 |
+| 933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                            | 简单 |
+| 942 | [增减字符串匹配](https://leetcode.cn/problems/di-string-match/)                                                       | 简单 |
+| 937 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/)                                        | 简单 |
+| 944 | [删列造序](https://leetcode.cn/problems/delete-columns-to-make-sorted/)                                            | 简单 |
+| 961 | [在长度 2N 的数组中找出重复 N 次的元素](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/)                    | 简单 |
+| 965 | [单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)                                                   | 简单 |
 | 1046 | [最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/)                                                   | 简单 |
 | 1089 | [复写零](https://leetcode.cn/problems/duplicate-zeros/)                                                           | 简单 |
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)                                         | 简单 |
