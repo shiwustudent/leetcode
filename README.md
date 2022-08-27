@@ -13,6 +13,7 @@ LeetCode
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                                       | 简单 |
 | 55   | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                                                | 中等 |
 | 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                                             | 中等 |
+| 69   | [x 的平方根](https://leetcode.cn/problems/sqrtx/)                                                                  | 简单 |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                                           | 简单 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                                        | 中等 |
 | 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                               | 简单 |
@@ -38,7 +39,7 @@ LeetCode
 | 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                                    | 简单 |
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)                                                               | 简单 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                      | 简单 |
-| 374  | [猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)                                      | 简单 |
+| 374  | [猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)                                            | 简单 |
 | 383  | [赎金信](https://leetcode.cn/problems/ransom-note/)                                                               | 简单 |
 | 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                               | 简单 |
 | 392  | [判断子序列](https://leetcode.cn/problems/is-subsequence/)                                                          | 简单 |
@@ -125,7 +126,7 @@ LeetCode
 | 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/)               | 简单 |
 | 1455 | [检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | 简单 |
 | 1460 | [通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                  | 简单 |
-| 1464 | [数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)                  | 简单 |
+| 1464 | [数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)                       | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                              | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                             | 中等 |
 
