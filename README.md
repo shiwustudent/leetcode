@@ -87,6 +87,7 @@ LeetCode
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                 | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                          | 简单 |
 | 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                            | 简单 |
+| 852  | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/)                                                          | 中等 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                          | 简单 |
 | 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                         | 中等 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                   | 中等 |
