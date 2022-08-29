@@ -128,6 +128,7 @@ LeetCode
 | 1455 | [检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | 简单 |
 | 1460 | [通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                  | 简单 |
 | 1464 | [数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)                       | 简单 |
+| 1470 | [重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)                       | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                              | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                             | 中等 |
 
