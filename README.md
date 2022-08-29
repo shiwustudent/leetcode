@@ -41,6 +41,7 @@ LeetCode
 | 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                                    | 简单 |
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)                                                               | 简单 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                      | 简单 |
+| 367  | [有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)                                            | 简单 |
 | 374  | [猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)                                            | 简单 |
 | 383  | [赎金信](https://leetcode.cn/problems/ransom-note/)                                                               | 简单 |
 | 387  | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/)                               | 简单 |
