@@ -85,6 +85,7 @@ LeetCode
 | 746  | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)                                            | 简单 |
 | 761  | [特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)                                                | 困难 |
 | 768  | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                     | 困难 |
+| 774  | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)                                     | 简单 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                 | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                          | 简单 |
 | 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                            | 简单 |
