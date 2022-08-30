@@ -13,7 +13,8 @@ public class LeetCode69 {
         int left = 1, right = x, ans = 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (mid <= x / mid) {
+            long square = (long) mid * mid;
+            if (square <= mid) {
                 ans = mid;
                 left = mid + 1;
             } else {
@@ -21,5 +22,20 @@ public class LeetCode69 {
             }
         }
         return ans;
+    }
+
+    // 补充另一种二分
+    private int mySqrt1(int x) {
+        int left = 1, right = x;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            long square = (long) mid * mid;
+            if (square > x) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
+        }
+        return left - 1;
     }
 }
