@@ -122,6 +122,7 @@ LeetCode
 | 1305 | [两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)                     | 中等 |
 | 1331 | [数组序号转换](https://leetcode.cn/problems/rank-transform-of-an-array/)                                             | 简单 |
 | 1374 | [生成每种字符都是奇数个的字符串](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/)        | 简单 |
+| 1385 | [两个数组间的距离值](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/?envType=study-plan&id=binary-search-beginner)        | 简单 |
 | 1403 | [非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/)                       | 简单 |
 | 1408 | [数组中的字符串匹配](https://leetcode.cn/problems/string-matching-in-an-array/)                                         | 简单 |
 | 1413 | [逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)                   | 简单 |
