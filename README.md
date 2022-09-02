@@ -77,6 +77,7 @@ LeetCode
 | 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                                              | 中等 |
 | 662  | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)                                                              | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                               | 中等 |
+| 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                               | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                      | 中等 |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                                                | 简单 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                                                      | 中等 |

@@ -98,7 +98,7 @@ public class LeetCode937 {
     }
 
 
-    class Pair {
+    private class Pair {
         String log;
         int index;
 
