@@ -73,6 +73,7 @@ LeetCode
 | 622  | [设计循环队列](https://leetcode.cn/problems/design-circular-queue/)                                                                      | 中等 |
 | 636  | [函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/)                                                               | 中等 |
 | 641  | [设计循环双端队列](https://leetcode.cn/problems/design-circular-deque/)                                                                    | 中等 |
+| 646  | [最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/)                                                                                | 中等 |
 | 648  | [单词替换](https://leetcode.cn/problems/replace-words/)                                                                                | 中等 |
 | 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                                              | 中等 |
 | 662  | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)                                                              | 中等 |
@@ -139,6 +140,7 @@ LeetCode
 | 1464 | [数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)                                           | 简单 |
 | 1470 | [重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)                                                                          | 简单 |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                                                  | 简单 |
+| 1582 | [一维数组的动态和](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/)                                                                  | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                 | 中等 |
 
 
