@@ -93,6 +93,7 @@ LeetCode
 | 774  | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)                                           | 简单 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                                    | 简单 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                                             | 简单 |
+| 828  | [统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/)                                                                             | 困难 |
 | 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                                               | 简单 |
 | 852  | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/)                                                         | 中等 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                                             | 简单 |
