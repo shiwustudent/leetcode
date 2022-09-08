@@ -78,6 +78,7 @@ LeetCode
 | 652  | [寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees/)                                                              | 中等 |
 | 658  | [找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/)                                                             | 中等 |
 | 662  | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)                                                             | 中等 |
+| 667  | [优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii/)                                                             | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                              | 中等 |
 | 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                               | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                     | 中等 |
