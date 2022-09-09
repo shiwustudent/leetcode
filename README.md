@@ -12,6 +12,7 @@ LeetCode
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)                    | 中等 |
 | 35   | [搜索插入位置](https://leetcode.cn/problems/valid-perfect-square/)                                                                      | 简单 |
 | 36   | [有效的数独](https://leetcode.cn/problems/valid-sudoku/)                                                                               | 中等 |
+| 46   | [全排列](https://leetcode.cn/problems/permutations/)                                                                               | 中等 |
 | 53   | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/)                                                                          | 简单 |
 | 55   | [跳跃游戏](https://leetcode.cn/problems/jump-game/)                                                                                   | 中等 |
 | 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                                                                | 中等 |
