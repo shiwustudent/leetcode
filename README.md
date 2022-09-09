@@ -145,6 +145,7 @@ LeetCode
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/)                                                                 | 简单 |
 | 1582 | [二进制矩阵中的特殊位置](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/)                                                                 | 简单 |
 | 1592 | [重新排列单词间的空格](https://leetcode.cn/problems/rearrange-spaces-between-words/)                                                                 | 简单 |
+| 1598 | [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)                                                                 | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 
 
