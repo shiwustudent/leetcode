@@ -81,6 +81,7 @@ LeetCode
 | 662  | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)                                                             | 中等 |
 | 667  | [优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii/)                                                             | 中等 |
 | 669  | [修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)                                                             | 中等 |
+| 670  | [最大交换](https://leetcode.cn/problems/maximum-swap/)                                                              | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                              | 中等 |
 | 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                               | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                     | 中等 |
@@ -148,6 +149,7 @@ LeetCode
 | 1582 | [二进制矩阵中的特殊位置](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/)                                                                 | 简单 |
 | 1592 | [重新排列单词间的空格](https://leetcode.cn/problems/rearrange-spaces-between-words/)                                                                 | 简单 |
 | 1598 | [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)                                                                 | 简单 |
+| 1608 | [特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)                                                                 | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 
 
