@@ -82,6 +82,7 @@ LeetCode
 | 667  | [优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii/)                                                             | 中等 |
 | 669  | [修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)                                                             | 中等 |
 | 670  | [最大交换](https://leetcode.cn/problems/maximum-swap/)                                                              | 中等 |
+| 672  | [灯泡开关 Ⅱ](https://leetcode.cn/problems/bulb-switcher-ii/)                                                              | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                              | 中等 |
 | 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                               | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                     | 中等 |
