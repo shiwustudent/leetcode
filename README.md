@@ -152,6 +152,7 @@ LeetCode
 | 1598 | [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)                                                                 | 简单 |
 | 1608 | [特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)                                                                 | 简单 |
 | 1619 | [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)                                                                 | 简单 |
+| 1624 | [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)                                                                 | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 
 
