@@ -51,6 +51,7 @@ public class weekly_contest_311 {
         }
     }
 
+    // 修改节点值
     private TreeNode reverseOddLevels(TreeNode root) {
         Queue<TreeNode> queue = new ArrayDeque<>();
         queue.add(root);
@@ -105,6 +106,25 @@ public class weekly_contest_311 {
         return root;
     }
 
+    // 递归
+    private TreeNode reverseOddLevels2(TreeNode root) {
+        dfs(root.left, root.right, 0);
+        return root;
+    }
+
+    private void dfs(TreeNode left, TreeNode right, int level) {
+        if (left == null) {
+            return;
+        }
+        if (level % 2 != 0) {
+            int temp = left.val;
+            left.val = right.val;
+            right.val = temp;
+        }
+        dfs(left.left, right.right, level+1);
+        dfs(right.left, left.right, level+1);
+    }
+
     private int[] sumPrefixScores(String[] words) {
         int n = words.length;
         Trie trie = new Trie();
@@ -150,7 +170,7 @@ public class weekly_contest_311 {
                 char c = word.charAt(i);
                 int index = c - 'a';
                 if (node.children[index] != null) {
-                    sum+=node.children[index].cnt;
+                    sum += node.children[index].cnt;
                 }
                 node = node.children[index];
             }
