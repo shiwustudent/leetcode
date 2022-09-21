@@ -82,6 +82,7 @@ LeetCode
 | 662  | [二叉树最大宽度](https://leetcode.cn/problems/maximum-width-of-binary-tree/)                                                              | 中等 |
 | 667  | [优美的排列 II](https://leetcode.cn/problems/beautiful-arrangement-ii/)                                                                 | 中等 |
 | 669  | [修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)                                                                 | 中等 |
+| 698  | [划分为k个相等的子集](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/)                                                                 | 中等 |
 | 670  | [最大交换](https://leetcode.cn/problems/maximum-swap/)                                                                                 | 中等 |
 | 672  | [灯泡开关 Ⅱ](https://leetcode.cn/problems/bulb-switcher-ii/)                                                                           | 中等 |
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                               | 中等 |
