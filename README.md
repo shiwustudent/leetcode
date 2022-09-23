@@ -89,6 +89,7 @@ LeetCode
 | 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                                      | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                      | 中等 |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                                                | 简单 |
+| 707  | [设计链表](https://leetcode.cn/problems/design-linked-list/)                                                                                | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                                                      | 中等 |
 | 719  | [找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/)                                                     | 困难 |
 | 724  | [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/)                                                                        | 简单 |
