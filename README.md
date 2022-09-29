@@ -195,6 +195,7 @@ LeetCode
 | 0101 | [判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/) |简单|
 | 0102 | [判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/) |简单|
 | 0105 | [一次编辑](https://leetcode.cn/problems/one-away-lcci/) |简单|
+| 0109 | [字符串轮转](https://leetcode.cn/problems/string-rotation-lcci/) |简单|
 | 1709 | [第 k 个数](https://leetcode.cn/problems/get-kth-magic-number-lcci/) |中等|
 | 1711 | [单词距离](https://leetcode.cn/problems/find-closest-lcci/) |中等|
 |      |          |     |
