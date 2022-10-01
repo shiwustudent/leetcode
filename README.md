@@ -157,6 +157,7 @@ LeetCode
 | 1619 | [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)                                           | 简单 |
 | 1624 | [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)                                    | 简单 |
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                    | 简单 |
+| 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                    | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                 | 中等 |
 
 
