@@ -205,10 +205,11 @@ LeetCode
 |      |          |     |
 
 ## 周赛
-| #   | 场次                                                          |
-|-----|-------------------------------------------------------------|
-| 294 | [第294场周赛](https://leetcode.cn/contest/weekly-contest-294)   |
-| 308 | [第308场周赛](https://leetcode.cn/contest/weekly-contest-308)   |
-| 80  | [第80场双周赛](https://leetcode.cn/contest/biweekly-contest-80/) |
-| 310 | [第310场周赛](https://leetcode.cn/contest/weekly-contest-310)   |
-| 311 | [第311场周赛](https://leetcode.cn/contest/weekly-contest-311)   |
+| #   | 场次                                                         |
+|-----|------------------------------------------------------------|
+| 294 | [第294场周赛](https://leetcode.cn/contest/weekly-contest-294)  |
+| 308 | [第308场周赛](https://leetcode.cn/contest/weekly-contest-308)  |
+| 80  | [第80场双周赛](https://leetcode.cn/contest/biweekly-contest-80) |
+| 310 | [第310场周赛](https://leetcode.cn/contest/weekly-contest-310)  |
+| 311 | [第311场周赛](https://leetcode.cn/contest/weekly-contest-311)  |
+| 88  | [第88场双周赛](https://leetcode.cn/contest/biweekly-contest-88) |
