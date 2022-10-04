@@ -113,6 +113,7 @@ LeetCode
 | 899  | [三维形体投影面积](https://leetcode.cn/problems/orderly-queue/)                                                                            | 困难 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                                                  | 简单 |
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                                                       | 简单 |
+| 921  | [使括号有效的最少添加](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/)                                                    | 中等 |
 | 926  | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)                                                    | 中等 |
 | 929  | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)                                                                  | 简单 |
 | 933  | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)                                                                | 简单 |
