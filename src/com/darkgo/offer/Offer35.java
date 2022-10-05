@@ -1,6 +1,7 @@
 package com.darkgo.offer;
 
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * <p>
@@ -30,7 +31,7 @@ public class Offer35 {
     static HashMap<Node, Node> map = new HashMap<>();
 
     private static Node copyRandomList(Node head) {
-        if(head==null){
+        if (head == null) {
             return null;
         }
         if (!map.containsKey(head)) {
@@ -38,6 +39,25 @@ public class Offer35 {
             map.put(head, node);
             node.next = copyRandomList(head.next);
             node.random = copyRandomList(head.random);
+        }
+        return map.get(head);
+    }
+
+    private static Node copyRandomList1(Node head) {
+        if (head == null) {
+            return null;
+        }
+        Map<Node, Node> map = new HashMap<>();
+        Node cur = head;
+        while (cur != null) {
+            map.put(cur, new Node(cur.val));
+            cur = cur.next;
+        }
+        cur = head;
+        while (cur != null) {
+            map.get(cur).next = map.get(cur.next);
+            map.get(cur).random = map.get(cur.random);
+            cur = cur.next;
         }
         return map.get(head);
     }
