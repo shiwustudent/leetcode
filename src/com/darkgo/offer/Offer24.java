@@ -1,5 +1,7 @@
 package com.darkgo.offer;
 
+import java.util.List;
+
 /**
  * <p>
  * 反转链表
@@ -25,8 +27,18 @@ public class Offer24 {
         return previous;
     }
 
+    private static ListNode reverseList1(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode newHead = reverseList1(head.next);
+        head.next.next = head;
+        head.next = null;
+        return newHead;
+    }
 
-    private static class ListNode {
+
+        private static class ListNode {
         int val;
         ListNode next;
 
