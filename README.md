@@ -162,6 +162,7 @@ LeetCode
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                    | 简单 |
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                    | 简单 |
 | 1784 | [检查二进制字符串字段](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)                                    | 简单 |
+| 1800 | [最大升序子数组和](https://leetcode.cn/problems/maximum-ascending-subarray-sum/)                                                 | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                 | 中等 |
 
 
