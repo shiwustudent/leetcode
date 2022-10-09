@@ -106,6 +106,7 @@ LeetCode
 | 828  | [统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/)                            | 困难 |
 | 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                                                | 简单 |
 | 852  | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/)                                                          | 中等 |
+| 856  | [括号的分数](https://leetcode.cn/problems/score-of-parentheses/)                                                          | 中等 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                                              | 简单 |
 | 870  | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)                                                                              | 中等 |
 | 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                                             | 中等 |
