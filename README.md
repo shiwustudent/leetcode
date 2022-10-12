@@ -102,6 +102,7 @@ LeetCode
 | 777  | [在LR字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)                                            | 中等 |
 | 811  | [子域名访问计数](https://leetcode.cn/problems/subdomain-visit-count/)                                                                     | 中等 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                                     | 简单 |
+| 817  | [链表组件](https://leetcode.cn/problems/linked-list-components/)                                                                     | 中等 |
 | 824  | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/)                                                                              | 简单 |
 | 828  | [统计子串中的唯一字符](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/)                            | 困难 |
 | 844  | [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)                                                                | 简单 |
