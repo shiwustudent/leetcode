@@ -98,6 +98,7 @@ LeetCode
 | 746  | [使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)                                                                | 简单 |
 | 761  | [特殊的二进制序列](https://leetcode.cn/problems/special-binary-string/)                                                                    | 困难 |
 | 768  | [最多能完成排序的块 II](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                                         | 困难 |
+| 769  | [最多能完成排序的块](https://leetcode.cn/problems/max-chunks-to-make-sorted/)                                                         | 中等 |
 | 774  | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)                                            | 简单 |
 | 777  | [在LR字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)                                            | 中等 |
 | 811  | [子域名访问计数](https://leetcode.cn/problems/subdomain-visit-count/)                                                                     | 中等 |
