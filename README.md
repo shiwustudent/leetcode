@@ -151,6 +151,7 @@ LeetCode
 | 1413 | [逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)                                       | 简单 |
 | 1417 | [重新格式化字符串](https://leetcode.cn/problems/reformat-the-string/)                                                                      | 简单 |
 | 1422 | [分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)                                                 | 简单 |
+| 1441 | [用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/)                                   | 中等 |
 | 1450 | [在既定时间做作业的学生人数](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/)                                   | 简单 |
 | 1455 | [检查单词是否为句中其他单词的前缀](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)                     | 简单 |
 | 1460 | [通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)                                      | 简单 |
