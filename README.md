@@ -110,6 +110,7 @@ LeetCode
 | 852  | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/)                                                          | 中等 |
 | 856  | [括号的分数](https://leetcode.cn/problems/score-of-parentheses/)                                                          | 中等 |
 | 868  | [二进制间距](https://leetcode-cn.com/problems/binary-gap/)                                                                              | 简单 |
+| 869  | [重新排序得到 2 的幂](https://leetcode.cn/problems/reordered-power-of-2/)                                                                              | 中等 |
 | 870  | [优势洗牌](https://leetcode.cn/problems/advantage-shuffle/)                                                                              | 中等 |
 | 873  | [最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/)                                             | 中等 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                                       | 中等 |
