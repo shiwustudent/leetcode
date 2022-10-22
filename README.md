@@ -60,6 +60,7 @@ LeetCode
 | 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                         | 中等 |
 | 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                              | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                                                               | 简单 |
+| 496  | [下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/)                                                                           | 简单 |
 | 498  | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                                                                           | 中等 |
 | 508  | [出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)                                                            | 中等 |
 | 509  | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                                                            | 简单 |
