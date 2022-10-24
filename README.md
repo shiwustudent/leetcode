@@ -122,6 +122,7 @@ LeetCode
 | 904  | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)                                                                  | 中等 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                                                  | 简单 |
 | 908  | [最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)                                                                       | 简单 |
+| 915  | [分割数组](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/)                                                    | 中等 |
 | 921  | [使括号有效的最少添加](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/)                                                    | 中等 |
 | 926  | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/)                                                    | 中等 |
 | 929  | [独特的电子邮件地址](https://leetcode.cn/problems/unique-email-addresses/)                                                                  | 简单 |
