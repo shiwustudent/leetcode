@@ -67,7 +67,7 @@ public class LeetCode707 {
         }
     }
 
-    class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
 
