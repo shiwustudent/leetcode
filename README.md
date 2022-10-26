@@ -4,6 +4,7 @@ LeetCode
 | #    | 名称                                                                                                                                 | 难度 |
 |------|------------------------------------------------------------------------------------------------------------------------------------|----|
 | 01   | [两数之和](https://leetcode.cn/problems/two-sum/)                                                                                      | 简单 |
+| 02   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)                                     | 中等 |
 | 03   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)                                     | 中等 |
 | 11   | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)                                                                 | 中等 |
 | 15   | [三数之和](https://leetcode.cn/problems/3sum/)                                                                 | 中等 |
@@ -186,12 +187,13 @@ LeetCode
 |-----|------------------------------------------------------------------------------------|--|
 | 03  | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | 简单 |
 | 04  | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)       | 中等 |
-| 05  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)| 简单 |
+| 05  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) | 简单 |
 | 06  | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)   | 简单 |
 | 09  | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 简单 |
 | 10  | [斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/) | 简单 |
 | 11  | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 中等 |
 | 24  | [反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)                     | 简单 |
+| 27  | [回文链表](https://leetcode.cn/problems/aMhZSa/)                     | 简单 |
 | 28  | [对称的二叉树](https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/)                     | 简单 |
 | 28  | [排序的循环链表](https://leetcode.cn/problems/4ueAj6/)                     | 中等 |
 | 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)         | 简单 |
