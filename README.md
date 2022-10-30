@@ -104,6 +104,7 @@ LeetCode
 | 769  | [最多能完成排序的块](https://leetcode.cn/problems/max-chunks-to-make-sorted/)                                                         | 中等 |
 | 774  | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)                                            | 简单 |
 | 777  | [在LR字符串中交换相邻字符](https://leetcode.cn/problems/swap-adjacent-in-lr-string/)                                            | 中等 |
+| 784  | [字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/)                                            | 中等 |
 | 811  | [子域名访问计数](https://leetcode.cn/problems/subdomain-visit-count/)                                                                     | 中等 |
 | 812  | [最大三角形面积](https://leetcode.cn/problems/largest-triangle-area/)                                                                     | 简单 |
 | 817  | [链表组件](https://leetcode.cn/problems/linked-list-components/)                                                                     | 中等 |
