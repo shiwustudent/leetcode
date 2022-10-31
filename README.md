@@ -61,6 +61,7 @@ LeetCode
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)                                                      | 中等 |
 | 462  | [最少移动次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)                                         | 中等 |
 | 467  | [环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)                                              | 中等 |
+| 481  | [神奇字符串](https://leetcode.cn/problems/magical-string/)                                                               | 中等 |
 | 485  | [最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/)                                                               | 简单 |
 | 496  | [下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/)                                                                           | 简单 |
 | 498  | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)                                                                           | 中等 |
