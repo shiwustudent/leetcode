@@ -1,6 +1,9 @@
 package com.darkgo.primary;
 
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * 无重复字符的最长子串
@@ -19,17 +22,27 @@ public class LeetCode3 {
     private static int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
         int max = 0;
-        for (int i = 0; i < s.length(); i++) {
-            set.clear();
-            for (int j = i; j < s.length(); j++) {
-                if (!set.contains(s.charAt(j))) {
-                    set.add(s.charAt(j));
-                } else {
-                    max = Math.max(max, set.size());
-                    break;
-                }
-                max = Math.max(max, set.size());
+        char[] chars = s.toCharArray();
+        for (int i = 0, j = 0; i < chars.length; i++) {
+            while (set.contains(chars[i])) {
+                set.remove(chars[j++]);
             }
+            set.add(chars[i]);
+            max = Math.max(max, i - j + 1);
+        }
+        return max;
+    }
+
+    private static int lengthOfLongestSubstring1(String s) {
+        Map<Character, Integer> map = new HashMap<>();
+        char[] chars = s.toCharArray();
+        int max = 0;
+        for (int i = 0, j = 0; i < chars.length; i++) {
+            if (map.containsKey(chars[i])) {
+                j = Math.max(map.get(chars[i]) + 1, j);
+            }
+            max = Math.max(max, i - j + 1);
+            map.put(chars[i], i);
         }
         return max;
     }
