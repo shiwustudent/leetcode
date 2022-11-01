@@ -174,6 +174,7 @@ LeetCode
 | 1619 | [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)                                           | 简单 |
 | 1624 | [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)                                    | 简单 |
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                    | 简单 |
+| 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                    | 简单 |
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                    | 简单 |
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                    | 简单 |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)                                    | 简单 |
