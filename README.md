@@ -173,6 +173,7 @@ LeetCode
 | 1598 | [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)                                                                     | 简单 |
 | 1608 | [特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)                                    | 简单 |
 | 1619 | [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)                                           | 简单 |
+| 1620 | [网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/)                                    | 中等 |
 | 1624 | [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)                                    | 简单 |
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                    | 简单 |
 | 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                    | 简单 |
