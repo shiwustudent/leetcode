@@ -180,6 +180,7 @@ LeetCode
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                                   | 简单 |
 | 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                          | 简单 |
 | 1678 | [设计 Goal 解析器](https://leetcode.cn/problems/goal-parser-interpretation/)                                                           | 简单 |
+| 1684 | [统计一致字符串的数目](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)                                                                  | 简单 |
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                                                  | 简单 |
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                                | 简单 |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)                                                                | 简单 |
