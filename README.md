@@ -13,6 +13,7 @@ LeetCode
 | 19   | [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)                                                  | 中等 |
 | 20   | [有效的括号](https://leetcode.cn/problems/valid-parentheses/)                                                                          | 简单 |
 | 21   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)                                                                  | 简单 |
+| 22   | [括号生成](https://leetcode.cn/problems/generate-parentheses/)                                                                  | 中等 |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element/)                                                                          | 简单 |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)                    | 中等 |
 | 35   | [搜索插入位置](https://leetcode.cn/problems/valid-perfect-square/)                                                                      | 简单 |
