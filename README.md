@@ -185,6 +185,7 @@ LeetCode
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                                                  | 简单 |
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                                | 简单 |
 | 1704 | [无法吃午餐的学生数量](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)                                                | 简单 |
+| 1710 | [卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/)                                                | 简单 |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)                                                                | 简单 |
 | 1773 | [统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)                                                        | 简单 |
 | 1784 | [检查二进制字符串字段](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)                                | 简单 |
