@@ -191,6 +191,7 @@ LeetCode
 | 1773 | [统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)                                                        | 简单 |
 | 1784 | [检查二进制字符串字段](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)                                | 简单 |
 | 1790 | [仅执行一次字符串交换能否使两个字符串相等](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/)                             | 简单 |
+| 1796 | [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)                             | 简单 |
 | 1800 | [最大升序子数组和](https://leetcode.cn/problems/maximum-ascending-subarray-sum/)                                                          | 简单 |
 | 1822 | [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)                                                         | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
