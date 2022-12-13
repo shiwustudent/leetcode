@@ -196,6 +196,7 @@ LeetCode
 | 1800 | [最大升序子数组和](https://leetcode.cn/problems/maximum-ascending-subarray-sum/)                                                          | 简单 |
 | 1822 | [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)                                                         | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
+| 1832 | [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)                                                | 简单 |
 
 
 ## 剑指Offer
