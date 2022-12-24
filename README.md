@@ -187,6 +187,7 @@ LeetCode
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                                | 简单 |
 | 1704 | [无法吃午餐的学生数量](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)                                                | 简单 |
 | 1710 | [卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/)                                                | 简单 |
+| 1754 | [构造字典序最大的合并字符串](https://leetcode.cn/problems/largest-merge-of-two-strings/submissions/)                                                | 中等 |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)                                                                | 简单 |
 | 1773 | [统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)                                                        | 简单 |
 | 1781 | [所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/)                                                        | 中等 |
