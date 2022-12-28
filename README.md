@@ -96,7 +96,7 @@ LeetCode
 | 676  | [实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/)                                                              | 中等 |
 | 687  | [最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)                                                                     | 中等 |
 | 692  | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/)                                                                     | 中等 |
-| 700  | [二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)                                                                               | 简单 |
+| 700  | [二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)                                                                              | 简单 |
 | 704  | [二分查找](https://leetcode.cn/problems/binary-search/)                                                                               | 简单 |
 | 707  | [设计链表](https://leetcode.cn/problems/design-linked-list/)                                                                          | 中等 |
 | 713  | [乘积小于 K 的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/)                                                     | 中等 |
@@ -187,6 +187,7 @@ LeetCode
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                                | 简单 |
 | 1704 | [无法吃午餐的学生数量](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)                                                | 简单 |
 | 1710 | [卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/)                                                | 简单 |
+| 1750 | [删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/)                                                | 中等 |
 | 1754 | [构造字典序最大的合并字符串](https://leetcode.cn/problems/largest-merge-of-two-strings/submissions/)                                                | 中等 |
 | 1768 | [交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately/)                                                                | 简单 |
 | 1773 | [统计匹配检索规则的物品数量](https://leetcode.cn/problems/count-items-matching-a-rule/)                                                        | 简单 |
