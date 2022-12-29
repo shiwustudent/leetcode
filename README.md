@@ -201,6 +201,7 @@ LeetCode
 | 1832 | [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)                                                | 简单 |
 | 1971 | [寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/)                                                | 简单 |
 | 2011 | [执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)                                                | 简单 |
+| 2032 | [至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)                                                | 简单 |
 
 
 ## 剑指Offer
