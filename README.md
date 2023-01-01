@@ -257,3 +257,4 @@ LeetCode
 | 311 | [第311场周赛](https://leetcode.cn/contest/weekly-contest-311)  |
 | 88  | [第88场双周赛](https://leetcode.cn/contest/biweekly-contest-88) |
 | 313 | [第313场周赛](https://leetcode.cn/contest/weekly-contest-313)  |
+| 326 | [第326场周赛](https://leetcode.cn/contest/weekly-contest-326)  |
