@@ -197,6 +197,7 @@ LeetCode
 | 1796 | [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)                             | 简单 |
 | 1800 | [最大升序子数组和](https://leetcode.cn/problems/maximum-ascending-subarray-sum/)                                                          | 简单 |
 | 1801 | [积压订单中的订单总数](https://leetcode.cn/problems/number-of-orders-in-the-backlog/)                                                          | 中等 |
+| 1802 | [有界数组中指定下标处的最大值](https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/)                                                          | 中等 |
 | 1822 | [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)                                                         | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 | 1832 | [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)                                                | 简单 |
