@@ -180,6 +180,7 @@ LeetCode
 | 1620 | [网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/)                                                | 中等 |
 | 1624 | [两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)                                   | 简单 |
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                                   | 简单 |
+| 1658 | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)                                                   | 中等 |
 | 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                          | 简单 |
 | 1678 | [设计 Goal 解析器](https://leetcode.cn/problems/goal-parser-interpretation/)                                                           | 简单 |
 | 1684 | [统计一致字符串的数目](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)                                                                  | 简单 |
