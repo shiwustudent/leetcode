@@ -207,6 +207,7 @@ LeetCode
 | 2032 | [至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)                                                | 简单 |
 | 2037 | [使每位学生都有座位的最少移动次数](https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/)                                                | 简单 |
 | 2042 | [检查句子中的数字是否递增](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)                                                | 简单 |
+| 2185 | [统计包含给定前缀的字符串](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)                                                | 简单 |
 
 
 ## 剑指Offer
