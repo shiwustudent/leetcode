@@ -201,6 +201,7 @@ LeetCode
 | 1802 | [有界数组中指定下标处的最大值](https://leetcode.cn/problems/maximum-value-at-a-given-index-in-a-bounded-array/)                                                          | 中等 |
 | 1806 | [还原排列的最少操作步数](https://leetcode.cn/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)                                                          | 中等 |
 | 1806 | [替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)                                                          | 中等 |
+| 1813 | [句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii/)                                                          | 中等 |
 | 1822 | [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)                                                         | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 | 1832 | [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)                                                | 简单 |
