@@ -39,6 +39,36 @@ public class weekly_contest_328 {
         return ans;
     }
 
+    private int[][] rangeAddQueries1(int n, int[][] queries) {
+        int[][] dif = new int[n + 1][n + 1];
+        int[][] ans = new int[n][n];
+        for (int[] query : queries) {
+            dif[query[0]][query[1]]++;
+            dif[query[0]][query[3]+1]--;
+            dif[query[2]+1][query[1]]--;
+            dif[query[2]+1][query[3]+1]++;
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n; j++) {
+                dif[i][j] += dif[i][j - 1];
+            }
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                dif[i][j] += dif[i - 1][j];
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                ans[i][j] = dif[i][j];
+            }
+        }
+        return ans;
+    }
+
 
     private static long countGood(int[] nums, int k) {
         long ans = 0;
