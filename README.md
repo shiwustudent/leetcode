@@ -217,6 +217,7 @@ LeetCode
 | 2283 | [判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)                                                | 简单 |
 | 2287 | [判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)                                                | 简单 |
 | 2299 | [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)                                                | 简单 |
+| 2303 | [计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)                                                | 简单 |
 
 
 ## 剑指Offer
