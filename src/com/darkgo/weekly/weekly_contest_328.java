@@ -44,9 +44,9 @@ public class weekly_contest_328 {
         int[][] ans = new int[n][n];
         for (int[] query : queries) {
             dif[query[0]][query[1]]++;
-            dif[query[0]][query[3]+1]--;
-            dif[query[2]+1][query[1]]--;
-            dif[query[2]+1][query[3]+1]++;
+            dif[query[0]][query[3] + 1]--;
+            dif[query[2] + 1][query[1]]--;
+            dif[query[2] + 1][query[3] + 1]++;
         }
 
         for (int i = 0; i < n; i++) {
@@ -72,23 +72,19 @@ public class weekly_contest_328 {
 
     private static long countGood(int[] nums, int k) {
         long ans = 0;
-        int n = nums.length;
-        Map<Integer, Integer> map = new HashMap<>();
-        int max = 0;
+        Map<Integer, Integer> cnt = new HashMap<>();
+        int left = 0, pairs = 0;
         for (int num : nums) {
-            if (map.containsKey(num)) {
-                max++;
+            // 已经有C个num，新增一个num，多c对
+            pairs += cnt.getOrDefault(num, 0);
+            cnt.merge(num, 1, Integer::sum);
+            // 已经有C个num,去掉一个num，减少c-1对
+            while (pairs - (cnt.get(nums[left]) - 1) >= k) {
+                pairs -= cnt.merge(nums[left++], -1, Integer::sum);
+                if (pairs >= k) {
+                    ans += left - 1;
+                }
             }
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-        int cur = 0;
-        for (int num : nums) {
-            cur += max - map.get(num) - 1;
-            if (cur >= k) {
-                ans++;
-                cur = 0;
-            }
-            map.put(num, map.get(num) - 1);
         }
         return ans;
     }

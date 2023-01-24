@@ -9,6 +9,7 @@ package com.darkgo.note;
  * @since 2023/1/18
  */
 public class Dif {
+
     /**
      * 二维差分
      * @param n
