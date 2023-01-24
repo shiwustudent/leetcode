@@ -207,6 +207,7 @@ LeetCode
 | 1822 | [数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)                                                         | 简单 |
 | 1823 | [找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)                                                | 中等 |
 | 1824 | [最少侧跳次数](https://leetcode.cn/problems/minimum-sideway-jumps/)                                                | 中等 |
+| 1828 | [统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/)                                                | 中等 |
 | 1832 | [判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)                                                | 简单 |
 | 1971 | [寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/)                                                | 简单 |
 | 2011 | [执行操作后的变量值](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)                                                | 简单 |
