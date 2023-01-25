@@ -19,7 +19,7 @@ public class LeetCode1828 {
             int r = queries[i][2];
             for (int[] point : points) {
                 int x = point[0];
-                int y = point[0];
+                int y = point[1];
                 if ((x - circleX) * (x - circleX) + (y - circleY) * (y - circleY) <= r * r) {
                     ans[i]++;
                 }
