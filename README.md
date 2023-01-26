@@ -182,11 +182,12 @@ LeetCode
 | 1636 | [按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)                                                   | 简单 |
 | 1658 | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)                                                   | 中等 |
 | 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                          | 简单 |
+| 1663 | [具有给定数值的最小字符串](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value/)                                          | 中等 |
 | 1678 | [设计 Goal 解析器](https://leetcode.cn/problems/goal-parser-interpretation/)                                                           | 简单 |
 | 1684 | [统计一致字符串的数目](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)                                                                  | 简单 |
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                                                  | 简单 |
 | 1700 | [无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/)                                                | 简单 |
-| 1704 | [无法吃午餐的学生数量](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)                                                | 简单 |
+| 1704 | [判断字符串的两半是否相似](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)                                                | 简单 |
 | 1710 | [卡车上的最大单元数](https://leetcode.cn/problems/maximum-units-on-a-truck/)                                                | 简单 |
 | 1750 | [删除字符串两端相同字符后的最短长度](https://leetcode.cn/problems/minimum-length-of-string-after-deleting-similar-ends/)                                                | 中等 |
 | 1754 | [构造字典序最大的合并字符串](https://leetcode.cn/problems/largest-merge-of-two-strings/submissions/)                                                | 中等 |
@@ -216,7 +217,7 @@ LeetCode
 | 2042 | [检查句子中的数字是否递增](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)                                                | 简单 |
 | 2185 | [统计包含给定前缀的字符串](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)                                                | 简单 |
 | 2283 | [判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)                                                | 简单 |
-| 2287 | [判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)                                                | 简单 |
+| 2287 | [重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)                                                | 简单 |
 | 2299 | [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)                                                | 简单 |
 | 2303 | [计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)                                                | 简单 |
 
