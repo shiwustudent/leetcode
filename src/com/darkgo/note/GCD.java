@@ -10,7 +10,8 @@ package com.darkgo.note;
  */
 public class GCD {
     public static void main(String[] args) {
-        System.out.println(gcd(3, 8));
+        System.out.println(gcd(4, 8));
+        System.out.println(gcd1(4, 8));
     }
 
     private static int gcd(int num1, int num2) {
@@ -20,6 +21,13 @@ public class GCD {
             num2 = temp;
         }
         return num1;
+    }
+
+    private static int gcd1(int num1, int num2) {
+        if (num2 == 0) {
+            return num1;
+        }
+        return gcd1(num2, num1 % num2);
     }
 
     private static int lcm(int num1, int num2) {
