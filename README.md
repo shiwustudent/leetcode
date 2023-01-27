@@ -220,6 +220,7 @@ LeetCode
 | 2287 | [重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)                                                | 简单 |
 | 2299 | [强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)                                                | 简单 |
 | 2303 | [计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)                                                | 简单 |
+| 2309 | [兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)                                                | 简单 |
 
 
 ## 剑指Offer
