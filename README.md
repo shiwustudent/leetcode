@@ -126,7 +126,7 @@ LeetCode
 | 875  | [爱吃香蕉的珂珂](https://leetcode.cn/problems/koko-eating-bananas/)                                                                      | 中等 |
 | 876  | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)                                                                | 简单 |
 | 883  | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)                                                        | 简单 |
-| 899  | [三维形体投影面积](https://leetcode.cn/problems/orderly-queue/)                                                                           | 困难 |
+| 899  | [有序队列](https://leetcode.cn/problems/orderly-queue/)                                                                           | 困难 |
 | 901  | [股票价格跨度](https://leetcode.cn/problems/online-stock-span/)                                                                         | 中等 |
 | 904  | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)                                                                          | 中等 |
 | 905  | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)                                                                 | 简单 |
@@ -183,6 +183,7 @@ LeetCode
 | 1658 | [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)                                                   | 中等 |
 | 1662 | [检查两个字符串数组是否相等](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)                                          | 简单 |
 | 1663 | [具有给定数值的最小字符串](https://leetcode.cn/problems/smallest-string-with-a-given-numeric-value/)                                          | 中等 |
+| 1669 | [合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists/)                                          | 中等 |
 | 1678 | [设计 Goal 解析器](https://leetcode.cn/problems/goal-parser-interpretation/)                                                           | 简单 |
 | 1684 | [统计一致字符串的数目](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)                                                                  | 简单 |
 | 1694 | [重新格式化电话号码](https://leetcode.cn/problems/reformat-phone-number/)                                                                  | 简单 |
