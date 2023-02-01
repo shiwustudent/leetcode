@@ -12,7 +12,7 @@ import java.util.Deque;
  * @since 2023/2/1
  */
 public class LeetCode71 {
-    public String simplifyPath(String path) {
+    private String simplifyPath(String path) {
         Deque<String> stack = new ArrayDeque<>();
         String[] names = path.split("/");
         for (String name : names) {

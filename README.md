@@ -225,6 +225,7 @@ LeetCode
 | 2309 | [兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)                                                | 简单 |
 | 2315 | [统计星号](https://leetcode.cn/problems/count-asterisks/)                                                | 简单 |
 | 2319 | [判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)                                                | 简单 |
+| 2325 | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | 简单 |
 
 
 ## 剑指Offer
