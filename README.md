@@ -24,6 +24,7 @@ LeetCode
 | 62   | [不同路径](https://leetcode.cn/problems/unique-paths/)                                                                                | 中等 |
 | 69   | [x 的平方根](https://leetcode.cn/problems/sqrtx/)                                                                                     | 简单 |
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                                                              | 简单 |
+| 71   | [简化路径](https://leetcode.cn/problems/simplify-path/)                                                                              | 中等 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                                                           | 中等 |
 | 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                                  | 简单 |
 | 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                                                      | 简单 |
