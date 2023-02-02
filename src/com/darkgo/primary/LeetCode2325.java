@@ -13,21 +13,21 @@ import java.util.Map;
  */
 public class LeetCode2325 {
     private String decodeMessage(String key, String message) {
-        Map<Character,Character> map = new HashMap<>();
+        Map<Character, Character> map = new HashMap<>();
         char[] chars = key.toCharArray();
         char base = 'a';
-        for(char c:chars){
-            if(c==' '){
+        for (char c : chars) {
+            if (c == ' ') {
                 continue;
             }
-            if(!map.containsKey(c)){
-                map.put(c,base++);
+            if (!map.containsKey(c)) {
+                map.put(c, base++);
             }
         }
-        StringBuilder sb  = new StringBuilder();
+        StringBuilder sb = new StringBuilder();
         char[] m = message.toCharArray();
-        for(char c:m){
-            sb.append(map.getOrDefault(c,' '));
+        for (char c : m) {
+            sb.append(map.getOrDefault(c, ' '));
         }
         return sb.toString();
     }
