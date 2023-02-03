@@ -149,6 +149,7 @@ LeetCode
 | 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)                                                                             | 简单 |
 | 1061 | [按字典序排列最小的等效字符串](https://leetcode.cn/problems/lexicographically-smallest-equivalent-string/)                                                                             | 中等 |
 | 1161 | [最大层内元素和](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/)                                                       | 中等 |
+| 1145 | [二叉树着色游戏](https://leetcode.cn/problems/binary-tree-coloring-game/)                                                       | 中等 |
 | 1175 | [质数排列](https://leetcode.cn/problems/prime-arrangements/)                                                                          | 简单 |
 | 1184 | [公交站间的距离](https://leetcode.cn/problems/distance-between-bus-stops/)                                                               | 简单 |
 | 1200 | [最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/)                                                                | 简单 |
