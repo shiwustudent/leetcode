@@ -50,6 +50,7 @@ LeetCode
 | 242  | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)                                                                           | 简单 |
 | 278  | [第一个错误的版本](https://leetcode.cn/problems/first-bad-version/)                                                                       | 简单 |
 | 283  | [移动零](https://leetcode.cn/problems/move-zeroes/)                                                                                  | 简单 |
+| 303  | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)                                                                                  | 简单 |
 | 350  | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)                                                         | 简单 |
 | 367  | [有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)                                                                    | 简单 |
 | 374  | [猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/)                                                               | 简单 |
