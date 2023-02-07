@@ -179,6 +179,7 @@ LeetCode
 | 1582 | [二进制矩阵中的特殊位置](https://leetcode.cn/problems/special-positions-in-a-binary-matrix/)                                                 | 简单 |
 | 1592 | [重新排列单词间的空格](https://leetcode.cn/problems/rearrange-spaces-between-words/)                                                        | 简单 |
 | 1598 | [文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)                                                                    | 简单 |
+| 1604 | [警告一小时内使用相同员工卡大于等于三次的人](https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)                                   | 中等 |
 | 1608 | [特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)                                   | 简单 |
 | 1619 | [删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)                                          | 简单 |
 | 1620 | [网络信号最好的坐标](https://leetcode.cn/problems/coordinate-with-maximum-network-quality/)                                                | 中等 |
