@@ -149,6 +149,7 @@ LeetCode
 | 1021 | [删除最外层的括号](https://leetcode.cn/problems/remove-outermost-parentheses/)                                                            | 简单 |
 | 1051 | [高度检查器](https://leetcode.cn/problems/height-checker/)                                                                             | 简单 |
 | 1061 | [按字典序排列最小的等效字符串](https://leetcode.cn/problems/lexicographically-smallest-equivalent-string/)                                                                             | 中等 |
+| 1138 | [字母板上的路径](https://leetcode.cn/problems/alphabet-board-path/)                                                       | 中等 |
 | 1161 | [最大层内元素和](https://leetcode.cn/problems/maximum-level-sum-of-a-binary-tree/)                                                       | 中等 |
 | 1145 | [二叉树着色游戏](https://leetcode.cn/problems/binary-tree-coloring-game/)                                                       | 中等 |
 | 1175 | [质数排列](https://leetcode.cn/problems/prime-arrangements/)                                                                          | 简单 |
