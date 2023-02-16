@@ -235,6 +235,7 @@ LeetCode
 | 2315 | [统计星号](https://leetcode.cn/problems/count-asterisks/)                                                | 简单 |
 | 2319 | [判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)                                                | 简单 |
 | 2325 | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | 简单 |
+| 2341 | [数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)                                                | 简单 |
 
 
 ## 剑指Offer
