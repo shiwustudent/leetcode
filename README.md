@@ -26,6 +26,7 @@ LeetCode
 | 70   | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                                                                              | 简单 |
 | 71   | [简化路径](https://leetcode.cn/problems/simplify-path/)                                                                              | 中等 |
 | 73   | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)                                                                           | 中等 |
+| 78   | [子集](https://leetcode.cn/problems/subsets/)                                                                           | 中等 |
 | 83   | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)                                                  | 简单 |
 | 88   | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)                                                                      | 简单 |
 | 98   | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)                                                              | 中等 |
@@ -237,6 +238,7 @@ LeetCode
 | 2319 | [判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)                                                | 简单 |
 | 2325 | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | 简单 |
 | 2341 | [数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)                                                | 简单 |
+| 2347 | [最好的扑克手牌](https://leetcode.cn/problems/best-poker-hand/)                                                | 简单 |
 
 
 ## 剑指Offer
