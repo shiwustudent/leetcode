@@ -207,6 +207,7 @@ LeetCode
 | 1781 | [所有子字符串美丽值之和](https://leetcode.cn/problems/sum-of-beauty-of-all-substrings/)                                                        | 中等 |
 | 1784 | [检查二进制字符串字段](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)                                | 简单 |
 | 1790 | [仅执行一次字符串交换能否使两个字符串相等](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/)                             | 简单 |
+| 1792 | [最大平均通过率](https://leetcode.cn/problems/maximum-average-pass-ratio/)                             | 中等 |
 | 1796 | [字符串中第二大的数字](https://leetcode.cn/problems/second-largest-digit-in-a-string/)                             | 简单 |
 | 1797 | [设计一个验证系统](https://leetcode.cn/problems/design-authentication-manager/)                             | 中等 |
 | 1798 | [你能构造出连续值的最大数目](https://leetcode.cn/problems/maximum-number-of-consecutive-values-you-can-make/)                             | 中等 |
