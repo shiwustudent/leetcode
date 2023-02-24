@@ -240,6 +240,7 @@ LeetCode
 | 2325 | [解密消息](https://leetcode.cn/problems/decode-the-message/)                                                | 简单 |
 | 2341 | [数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)                                                | 简单 |
 | 2347 | [最好的扑克手牌](https://leetcode.cn/problems/best-poker-hand/)                                                | 简单 |
+| 2357 | [使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)                                                | 简单 |
 
 
 ## 剑指Offer
